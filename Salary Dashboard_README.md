@@ -59,7 +59,7 @@ Job sheet has following formula to find unique job title in Sort order.
      
 <img width="2145" height="445" alt="image" src="https://github.com/user-attachments/assets/6da2491c-db36-4ea6-88cc-aa3a8947105f" />
 
-  ### Conclusion
+### Conclusion
 
 Based on the above data validation, this dashboard will show the charts, median salary, Job platform posted and its job count.
 
